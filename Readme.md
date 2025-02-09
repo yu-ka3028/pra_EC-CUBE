@@ -15,3 +15,4 @@
 
 - 強引にローカルの状態で push する`git push origin main --force`
 - -u オプションの解除`git push origin --unset-upstream`
+
